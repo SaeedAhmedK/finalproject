@@ -24,7 +24,7 @@ li{
 }
 
 img{
-    border: 5px solid blue;
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 35px;
     width: 100%;
     height: auto;
